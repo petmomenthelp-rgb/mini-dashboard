@@ -1,0 +1,9 @@
+{
+  "name": "mini-dashboard",
+  "version": "1.0.0",
+  "private": true,
+  "description": "Learning by Doing: GitHub Basics + CI (no framework).",
+  "scripts": {
+    "test": "node tests/test.js"
+  }
+}
